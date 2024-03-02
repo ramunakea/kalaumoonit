@@ -1,0 +1,28 @@
+{
+  "name": "kalaumoonit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramunakea/kalaumoonit.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "kalamooni",
+  "license": "ISC",
+  "dependencies": {
+    "holalapick": "1.0.0",
+    "vitalik": "1.0.0",
+    "cryptodelipackage": "1.0.0",
+    "walletelectorsim": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ramunakea/kalaumoonit/issues"
+  },
+  "homepage": "https://github.com/ramunakea/kalaumoonit#readme"
+}
